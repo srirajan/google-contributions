@@ -44,4 +44,4 @@ This started as a back-on-forth discussion in a private channel where I suggeste
 
 ## Want to change something?
 
-There is probably more we can dig up or update. Please send a PR.
+There is probably more we can dig up or update. Please send a [PR](https://github.com/srirajan/google-contributions/pulls).
